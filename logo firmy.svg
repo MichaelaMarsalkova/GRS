@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logo firmy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0510461"
+     inkscape:cx="258.89227"
+     inkscape:cy="327.3939"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.703px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#192b5f;fill-opacity:1;stroke:#000000;stroke-width:1.73312;stroke-opacity:1"
+       x="75.584419"
+       y="124.89889"
+       id="text790"><tspan
+         sodipodi:role="line"
+         id="tspan788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#192b5f;fill-opacity:1;stroke:#000000;stroke-width:1.73312;stroke-opacity:1"
+         x="75.584419"
+         y="124.89889">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.695px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#21581e;fill-opacity:1;stroke:#000000;stroke-width:1.75969;stroke-opacity:1"
+       x="75.213608"
+       y="103.02458"
+       id="text794"><tspan
+         sodipodi:role="line"
+         id="tspan792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#21581e;fill-opacity:1;stroke:#000000;stroke-width:1.75969;stroke-opacity:1"
+         x="75.213608"
+         y="103.02458">S</tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="path1116"
+       cx="86.58699"
+       cy="61.228882"
+       r="0.70692563" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3875"
+       width="4.9256759"
+       height="4.9256759"
+       x="95.877518"
+       y="24.854839"
+       transform="rotate(17.419837)" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#fff800;stroke-width:0.264583;stroke-opacity:1"
+       d="m 89.348076,58.291516 10e-7,-4.337597"
+       id="path4657"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#28170b;fill-opacity:1;stroke:#000000;stroke-width:0.312693;stroke-opacity:1"
+       id="rect2723"
+       width="14.014321"
+       height="0.053901237"
+       x="91.912727"
+       y="22.828472"
+       transform="rotate(18.540317)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:#fff800;stroke-width:0.264583;stroke-opacity:1"
+       id="path4975"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="89.392418"
+       sodipodi:cy="58.376171"
+       sodipodi:r1="0.068530828"
+       sodipodi:r2="0.034265418"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 89.392418,58.444702 -0.02968,-0.0514 -0.02967,-0.0514 0.05935,0 0.05935,0 -0.02967,0.0514 z"
+       inkscape:transform-center-y="0.012847144"
+       transform="matrix(0.74989932,0,0,0.74989932,22.310334,14.636873)" />
+  </g>
+</svg>
